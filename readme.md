@@ -17,7 +17,8 @@ Infraestrutura AWS provisionada com Terraform:
 
 ## 🏗 Arquitetura
 
- <img width="216" height="709" alt="image" src="https://github.com/user-attachments/assets/aebeac30-6678-41aa-bb9c-622a6db14591" />
+<img width="1156" height="1633" alt="desafio rocketseat (1)" src="https://github.com/user-attachments/assets/9b829b93-69ec-4e30-8b4d-73b632eebd82" />
+
 
 
 - **ALB**: recebe tráfego HTTP externo.  
